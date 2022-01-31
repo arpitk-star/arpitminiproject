@@ -1,2 +1,0 @@
-# arpitminiproject
-1
